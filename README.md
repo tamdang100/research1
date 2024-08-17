@@ -5,7 +5,7 @@
 - This study investigates the sectoral expected uncertainty connectedness in emerging markets across different frequencies and quantiles using the novel quantile time–frequency connectedness approach.
 - We also conduct different portfolio analyses illustrating the importance of risk diversification to reduce investment uncertainty.
 - This has important implications for international investors and policymakers in forming optimal investment portfolios reducing adverse risk spillovers.
-- Published in International Review of Economics & Finance (an A-ranked journal)
+- Published in International Review of Economics & Finance (an **A-ranked** journal)
 
 ### Technical skills used in this project
 - Retrieved the daily price indices of 10 key global sectors from **Refinitiv Workspace**
